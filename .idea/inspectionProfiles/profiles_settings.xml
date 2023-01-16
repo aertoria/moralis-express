@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <settings>
+    <option name="PROJECT_PROFILE" value="Default" />
+    <option name="USE_PROJECT_PROFILE" value="false" />
+    <info color="cb0003">
+      <option name="FOREGROUND" value="ffffff" />
+      <option name="FONT_TYPE" value="3" />
+      <option name="EFFECT_COLOR" value="cb0003" />
+      <option name="ERROR_STRIPE_COLOR" value="cb0003" />
+      <option name="EFFECT_TYPE" value="2" />
+      <option name="myName" value="PhoenixCompileError" />
+      <option name="myVal" value="50" />
+      <option name="myExternalName" value="PhoenixCompileError" />
+      <option name="myDefaultAttributes">
+        <option name="ERROR_STRIPE_COLOR" value="cb0003" />
+      </option>
+    </info>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="PhoenixCompileError" />
+      <item index="1" class="java.lang.String" itemvalue="INFORMATION" />
+      <item index="2" class="java.lang.String" itemvalue="TYPO" />
+      <item index="3" class="java.lang.String" itemvalue="SERVER PROBLEM" />
+      <item index="4" class="java.lang.String" itemvalue="WEAK WARNING" />
+      <item index="5" class="java.lang.String" itemvalue="INFO" />
+      <item index="6" class="java.lang.String" itemvalue="WARNING" />
+      <item index="7" class="java.lang.String" itemvalue="ERROR" />
+    </list>
+  </settings>
+</component>
